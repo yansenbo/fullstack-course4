@@ -1,0 +1,10 @@
+h1 {
+	font-family: 'Lobster', cursive;
+	padding-left: auto;
+	padding-right: 10px;
+	margin-top: -5px;
+}
+
+.navbar-brand {
+	margin-top: -5px;
+}
